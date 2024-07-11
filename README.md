@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Lishan</h1>
 <p align="left">
 </p>
