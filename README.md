@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">Hi, I'm Lishan...👋</h1>
+<h1 align="center">Hi, I'm Lishan Dissanayake...👋</h1>
 
 <!-- View Count -->
 <div align="center">
