@@ -11,8 +11,8 @@
 <br>
 
 <!-- Stats -->
-<h2 align="left">📊 GitHub Stats:</h2>
-<p align="left">
+<h2 align="center">📊 GitHub Stats:</h2>
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=LishanSD&theme=blueberry&hide_border=true&stroke=4582C8E1" alt="GitHub Streak" />
   </a>
@@ -21,8 +21,8 @@
 <br>
 
 <!-- Tech Stack -->
-<h2 align="left">💻 Tech Stack:</h2>
-<div align="left">
+<h2 align="center">💻 Tech Stack:</h2>
+<div align="center">
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
