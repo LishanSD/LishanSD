@@ -8,36 +8,18 @@
 
 </div>
 
-###
+<br>
 
-<!--
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  />
-</div>
-
-###
-<div>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  />
-    <a href="mailto:lishan.21@cse.mrt.ac.lk">lishan.21@cse.mrt.ac.lk</a>
-
-  </p>
-  <p align="center">
-
-  </p>
-</div>
--->
 <!-- Stats -->
-<h2 align="center">📊 GitHub Stats:</h2>
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=LishanSD&theme=blueberry&hide_border=true&stroke=4582C8E1" alt="GitHub Streak" />
   </a>
 </p>
 
+<br>
+
 <!-- Tech Stack -->
-<h2 align="center">💻 Tech Stack:</h2>
 <div align="center">
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
