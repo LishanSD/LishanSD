@@ -4,7 +4,7 @@
 <!-- View Count -->
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=LishanSD&base=608)
+  ![](https://komarev.com/ghpvc/?username=LishanSD&base=608&color=327bcf&style=for-the-badge&label=Views)
   
   <!-- [![](https://visitcount.itsvg.in/api?id=lishansd&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
