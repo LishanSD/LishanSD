@@ -1,22 +1,25 @@
 <!-- Title -->
 <h1 align="center">Hi, I'm Lishan 👋</h1>
-![](https://komarev.com/ghpvc/?username=lishansd)
+
 <!-- View Count -->
 <div align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=lishansd&icon=0&color=0)](https://visitcount.itsvg.in)
+  ![](https://komarev.com/ghpvc/?username=LishanSD&base=608)
+  
+  <!-- [![](https://visitcount.itsvg.in/api?id=lishansd&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 </div>
 
 <br>
 
 <!-- Stats -->
-<p align="center">
+<div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats-nu-six.vercel.app?user=LishanSD&theme=blueberry&hide_border=true&stroke=4582C8E1" alt="GitHub Streak" />
   </a>
-</p>
+</div>
 
+<br>
 <br>
 
 <!-- Tech Stack -->
