@@ -4,9 +4,9 @@
 <!-- View Count -->
 <div align="center">
   
-  <!-- ![](https://komarev.com/ghpvc/?username=LishanSD&base=608&color=327acf&style=flat-square&label=Profile+Views) -->
+  ![](https://komarev.com/ghpvc/?username=LishanSD&base=608&color=327acf&style=flat-square&label=Profile+Views)
 
-  [![](https://visitcount.itsvg.in/api?id=lishansd&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+  <!-- [![](https://visitcount.itsvg.in/api?id=lishansd&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in) -->
 
 </div>
 
