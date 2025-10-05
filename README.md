@@ -19,12 +19,12 @@
     <!-- https://git.io/streak-stats -->
   </a>
 </div>
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-steel-nine.vercel.app/api?username=LishanSD&include_all_commits=true&count_private=true" /> -->
+    <img src="https://github-readme-stats-steel-nine.vercel.app/api?username=LishanSD&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true" />
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <!-- </a>
-</div> -->
+  </a>
+</div>
 <br><br>
 
 <!-- Tech Stack -->
