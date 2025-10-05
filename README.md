@@ -7,27 +7,30 @@
 
 <!-- View Count -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LishanSD&base=608&color=327acf&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+  <img src="https://komarev.com/ghpvc/?username=LishanSD&color=327acf&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
 
-<!-- Stats -->
+<!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
 
+<br>
+
 <div align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/LishanSD">
+    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <img src="https://git-hub-readme-streak-stats-rho.vercel.app?user=LishanSD&theme=blueberry&hide_border=true&stroke=4582C8E1" alt="GitHub Streak" />
-    <!-- https://git.io/streak-stats -->
   </a>
 </div>
 
 <br>
 
 <div align="center">  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-steel-nine.vercel.app/api?username=LishanSD&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&hide=contribs,issues&show=prs_merged_percentage&rank_icon=github&hide_title=true&number_format=long" />
+  <a href="https://github.com/LishanSD">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
+    <img src="https://github-readme-stats-steel-nine.vercel.app/api?username=LishanSD&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&hide=contribs,issues&show=prs_merged_percentage&rank_icon=github&hide_title=true&number_format=long" alt="GitHub Stats"/>
   </a>
 </div>
 
@@ -36,7 +39,10 @@
 <!-- Tech Stack -->
 <h3 align="center">💻 Tech Stack</h3>
 
+<br>
+
 <div align="center">
+  <!-- https://gprm.itsvg.in/ -->
 
   <!-- Languages -->
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -71,4 +77,6 @@
 
 </div>
 
+<!-- Added to count profile views in yhype -->
+<!-- https://yhype.me/dashboard -->
 ![](https://hit.yhype.me/github/profile?account_id=129363237)
