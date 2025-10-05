@@ -8,7 +8,7 @@
 <!-- View Count -->
 <p align="center">
   <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-  <img src="https://komarev.com/ghpvc/?username=LishanSD&color=327acf&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=LishanSD&color=365fb8&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
@@ -19,17 +19,17 @@
 <br>
 
 <div align="center">
+  <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
   <a href="https://github.com/LishanSD">
-    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <img src="https://git-hub-readme-streak-stats-rho.vercel.app?user=LishanSD&theme=blueberry&hide_border=true&stroke=4582C8E1" alt="GitHub Streak" />
   </a>
 </div>
 
 <br>
 
-<div align="center">  
+<div align="center">
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
   <a href="https://github.com/LishanSD">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
     <img src="https://github-readme-stats-steel-nine.vercel.app/api?username=LishanSD&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&hide=contribs,issues&show=prs_merged_percentage&rank_icon=github&hide_title=true&number_format=long" alt="GitHub Stats"/>
   </a>
 </div>
