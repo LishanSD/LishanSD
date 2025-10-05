@@ -15,13 +15,15 @@
 <!-- Stats -->
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://git-hub-readme-streak-stats-rho.vercel.app?user=LishanSD&theme=blueberry&hide_border=true&stroke=4582C8E1" alt="GitHub Streak" /> 
+    <img src="https://git-hub-readme-streak-stats-rho.vercel.app?user=LishanSD&theme=blueberry&hide_border=true&stroke=4582C8E1" alt="GitHub Streak" />
+    <!-- https://git.io/streak-stats -->
   </a>
 </div>
 <!-- <div align="center">
-  <a href="https://git.io/streak-stats">
-     <img src="https://github-readme-stats.vercel.app/api?username=LishanSD" />
-  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-steel-nine.vercel.app/api?username=LishanSD&include_all_commits=true&count_private=true" /> -->
+    <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <!-- </a>
 </div> -->
 <br><br>
 
