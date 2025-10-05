@@ -8,7 +8,7 @@
 <!-- View Count -->
 <p align="center">
   <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-  <img src="https://komarev.com/ghpvc/?username=LishanSD&color=365fb8&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=LishanSD&color=3660bb&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
