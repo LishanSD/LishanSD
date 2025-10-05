@@ -15,10 +15,14 @@
 <!-- Stats -->
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://git-hub-readme-streak-stats-rho.vercel.app?user=LishanSD&theme=blueberry&hide_border=true&stroke=4582C8E1" alt="GitHub Streak" />
+    <img src="https://git-hub-readme-streak-stats-rho.vercel.app?user=LishanSD&theme=blueberry&hide_border=true&stroke=4582C8E1" alt="GitHub Streak" /> 
   </a>
 </div>
-
+<!-- <div align="center">
+  <a href="https://git.io/streak-stats">
+     <img src="https://github-readme-stats.vercel.app/api?username=LishanSD" />
+  </a>
+</div> -->
 <br><br>
 
 <!-- Tech Stack -->
