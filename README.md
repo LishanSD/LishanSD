@@ -2,15 +2,11 @@
 <h1 align="center">Hi, I'm Lishan 👋</h1>
 
 <!-- View Count -->
-<div align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=LishanSD&base=608&color=327acf&style=flat-square&label=Profile+Views)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LishanSD&base=608&color=327acf&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
 
-  <!-- [![](https://visitcount.itsvg.in/api?id=lishansd&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in) -->
-
-</div>
-
-<br>
+---
 
 <!-- Stats -->
 <div align="center">
@@ -19,13 +15,17 @@
     <!-- https://git.io/streak-stats -->
   </a>
 </div>
-<div align="center">
+
+<br>
+
+<div align="center">  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-steel-nine.vercel.app/api?username=LishanSD&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true" />
+    <img src="https://github-readme-stats-steel-nine.vercel.app/api?username=LishanSD&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&hide=contribs,issues&show=prs_merged_percentage&rank_icon=github&hide_title=true&number_format=long" />
     <!-- https://github.com/anuraghazra/github-readme-stats -->
   </a>
 </div>
-<br><br>
+
+---
 
 <!-- Tech Stack -->
 <div align="center">
