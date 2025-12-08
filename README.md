@@ -4,18 +4,10 @@
 <p align="center">
   <strong>Computer Science & Engineering Undergraduate | UoM | Full-Stack & Blockchain Developer</strong>
   <br>
-  <strong>www.lishan.me</strong>
-  <!-- <br>
   <a href="https://www.lishan.me">
     <code>www.lishan.me</code>
-  </a> -->
-</p>
-
-<!-- <p align="center">
-  <a href="https://www.lishan.me" target="_blank">
-    <img src="https://img.shields.io/badge/www.lishan.me-404040?style=flat-square&logoColor=white" alt="Website" />
   </a>
-</p> -->
+</p>
 
 
 <!-- View Count -->
@@ -106,6 +98,18 @@
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
+
+---
+
+<!-- Connect -->
+<h3 align="center">🤝 Connect</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lishan-dissanayake/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="lishan-dissanayake" /></a>
+  <a href="https://medium.com/@LishanSD" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge" alt="@LishanSD" /></a>
+  <a href="mailto:lishan.21@cse.mrt.ac.lk" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="lishan.21@cse.mrt.ac.lk" /></a>
+</p>
+
 
 <!-- Added to count profile views in yhype -->
 <!-- https://yhype.me/dashboard -->
