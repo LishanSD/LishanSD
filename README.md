@@ -3,23 +3,17 @@
 
 <p align="center">
   <strong>Computer Science & Engineering Undergraduate | UoM | Full-Stack & Blockchain Developer</strong>
-</p>
-
-<!-- <p align="center">
+  <br>
   <strong>www.lishan.me</strong>
-</p> -->
-
+  <!-- <br>
+  <a href="https://www.lishan.me">
+    <code>www.lishan.me</code>
+  </a> -->
+</p>
 
 <!-- <p align="center">
   <a href="https://www.lishan.me" target="_blank">
-    <img src="https://img.shields.io/badge/www.lishan.me-4064c2?style=flat-square&logoColor=white" alt="Website" />
-  </a>
-</p>
-
-<img src="https://flat.badgen.net/badge/icon/www.lishan.me/blue?icon=chrome&label" />
-<p align="center">
-  <a href="https://www.lishan.me" target="_blank">
-    <img src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=PRIMARY&secondaryLabel=SECONDARY&primaryBGColor=%2331C4F3&primaryTextColor=%23FFFFFF&secondaryBGColor=%23389AD5&secondaryTextColor=%23FFFFFF&primaryFontSize=12&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&primaryIcon=webtrees&primaryIconColor=%23FFFFFF&primaryIconSize=16&primaryIconPosition=left" alt="Website" />
+    <img src="https://img.shields.io/badge/www.lishan.me-3d3d3d?style=flat-square&logoColor=white" alt="Website" />
   </a>
 </p> -->
 
