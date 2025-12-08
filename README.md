@@ -3,19 +3,19 @@
 
 <p align="center">
   <strong>Computer Science & Engineering Undergraduate | UoM | Full-Stack & Blockchain Developer</strong>
-  <!-- <br>
-  <strong>www.lishan.me</strong> -->
+  <br>
+  <strong>www.lishan.me</strong>
   <!-- <br>
   <a href="https://www.lishan.me">
     <code>www.lishan.me</code>
   </a> -->
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.lishan.me" target="_blank">
     <img src="https://img.shields.io/badge/www.lishan.me-404040?style=flat-square&logoColor=white" alt="Website" />
   </a>
-</p>
+</p> -->
 
 
 <!-- View Count -->
