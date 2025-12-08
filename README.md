@@ -3,12 +3,12 @@
 
 <p align="center">
   <strong>Computer Science & Engineering Undergraduate | UoM | Full-Stack & Blockchain Developer</strong>
-  <br>
-  www.lishan.me
   <!-- <br>
+  <strong>www.lishan.me</strong> -->
+  <br>
   <a href="https://www.lishan.me">
     <code>www.lishan.me</code>
-  </a> -->
+  </a>
 </p>
 
 <!-- <p align="center">
