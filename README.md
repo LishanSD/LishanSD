@@ -9,7 +9,6 @@
   </a>
 </p>
 
-
 <!-- View Count -->
 <p align="center">
   <!-- https://github.com/antonkomarev/github-profile-views-counter -->
@@ -50,7 +49,6 @@
   <!-- https://gprm.itsvg.in/ -->
 
   <!-- Languages -->
-  <h4>Languages</h4>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -59,37 +57,31 @@
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
   <!-- Frontend -->
-  <h4>Frontend</h4>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 
   <!-- Backend -->
-  <h4>Backend</h4>
   <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
 
   <!-- Mobile -->
-  <h4>Mobile</h4>
   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
   <!-- Blockchain & Web3 -->
-  <h4>Blockchain & Web3</h4>
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white" />
 
   <!-- Database -->
-  <h4>Database</h4>
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" />
 
   <!-- Cloud & DevOps -->
-  <h4>Cloud & DevOps</h4>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
@@ -98,7 +90,6 @@
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 
   <!-- Other -->
-  <h4>Other</h4>
   <img src="https://img.shields.io/badge/Keycloak-%2300B1E1.svg?style=for-the-badge&logo=keycloak&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black" />
@@ -117,7 +108,6 @@
   <a href="https://medium.com/@LishanSD" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge" alt="@LishanSD" /></a>
   <a href="mailto:lishan.21@cse.mrt.ac.lk" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="lishan.21@cse.mrt.ac.lk" /></a>
 </p>
-
 
 <!-- Added to count profile views in yhype -->
 <!-- https://yhype.me/dashboard -->
