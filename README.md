@@ -20,8 +20,6 @@
 <!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
 
-<br>
-
 <div align="center">
   <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
   <a href="https://github.com/LishanSD">
@@ -42,8 +40,6 @@
 
 <!-- Tech Stack -->
 <h3 align="center">💻 Tech Stack</h3>
-
-<br>
 
 <div align="center">
   
