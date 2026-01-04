@@ -5,7 +5,7 @@
   <strong>Computer Science & Engineering Undergraduate | UoM | Full-Stack & Blockchain Developer</strong>
   <br>
   <a href="https://www.lishan.me">
-    <code>www.lishan.me</code>
+    www.lishan.me
   </a>
 </p>
 
