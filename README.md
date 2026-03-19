@@ -84,7 +84,6 @@
 
   <!-- Cloud & DevOps -->
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-%23DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-%230a7cfc.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
