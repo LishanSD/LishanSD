@@ -23,7 +23,7 @@
 <div align="center">
   <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
   <a href="https://github.com/LishanSD">
-    <img src="https://git-hub-readme-streak-stats-rho.vercel.app?user=LishanSD&theme=blueberry&hide_border=true&stroke=4582C8E1" alt="GitHub Streak" />
+    <img src="https://git-hub-readme-streak-stats-pi.vercel.app?user=LishanSD&theme=blueberry&hide_border=true&stroke=4582C8E1" alt="GitHub Streak" />
   </a>
 </div>
 
