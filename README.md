@@ -31,12 +31,12 @@
 
 <div align="center">
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <a href="https://github.com/LishanSD">
+  <!-- <a href="https://github.com/LishanSD">
     <img src="https://github-readme-stats-steel-nine.vercel.app/api?username=LishanSD&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&hide=contribs,issues&show=prs_merged_percentage&rank_icon=github&hide_title=true&number_format=long" alt="GitHub Stats"/>
-  </a>
-    <!--
+  </a> -->
+  
   ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LishanSD&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&hide=contribs,issues&show=prs_merged_percentage&rank_icon=github&hide_title=true&number_format=long)
-  -->
+
 </div>
 
 ---
