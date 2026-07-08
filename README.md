@@ -12,6 +12,7 @@
 <!-- View Count -->
 <p align="center">
   <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+  
   <img src="https://komarev.com/ghpvc/?username=LishanSD&color=315ac4&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
 
@@ -22,20 +23,16 @@
 
 <div align="center">
   <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <a href="https://github.com/LishanSD">
-    <img src="https://git-hub-readme-streak-stats-pi.vercel.app?user=LishanSD&theme=blueberry&hide_border=true&stroke=4582C8E1" alt="GitHub Streak" />
-  </a>
+  
+  <img src="https://git-hub-readme-streak-stats-pi.vercel.app?user=LishanSD&theme=blueberry&hide_border=true&stroke=4582C8E1" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <!-- <a href="https://github.com/LishanSD">
-    <img src="https://github-readme-stats-steel-nine.vercel.app/api?username=LishanSD&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&hide=contribs,issues&show=prs_merged_percentage&rank_icon=github&hide_title=true&number_format=long" alt="GitHub Stats"/>
-  </a> -->
+  <!-- https://github.com/stats-organization/github-stats-extended/tree/master -->
   
-  ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LishanSD&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&hide=contribs,issues&show=prs_merged_percentage&rank_icon=github&hide_title=true&number_format=long)
+  ![GitHub Stats](https://github-stats-extended-sigma.vercel.app/api?username=LishanSD&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&hide=contribs,issues&show=prs_merged_percentage&rank_icon=github&hide_title=true&number_format=long)
 
 </div>
 
